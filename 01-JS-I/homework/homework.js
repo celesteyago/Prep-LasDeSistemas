@@ -2,21 +2,27 @@
 
 // Crea una variable "string", puede contener lo que quieras:
 const nuevaString = "Hola";
+console.log(nuevaString);
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 2034;
+console.log(nuevoNum);
 
 // Crea una variable booleana:
 const nuevoBool = true;
+console.log(nuevoBool);
 
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - 5 === 5;
+console.log(nuevaResta);
 
 // Resuelve el siguiente problema matemático:
 const nuevaMultiplicacion = 10 * 4 === 40 ;
+console.log(nuevaMultiplicacion);
 
 // Resuelve el siguiente problema matemático:
 const nuevoModulo = 21 % 5 === 1;
+console.log(nuevoModulo);
 
 // No modificar nada debajo de esta línea
 // --------------------------------
